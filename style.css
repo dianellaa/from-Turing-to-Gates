@@ -1,0 +1,55 @@
+body{
+    background: rgb(230, 230, 230);
+    border: 0;
+    width: 1445px;
+}
+header{
+    display: flex;
+    padding-right: 80px;
+    padding-top: 20px;
+    padding-left: 10px;
+    background-color: white;
+}
+
+#countainer{
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    height: 950px;
+}    
+#hom{
+    padding: 30px;
+    width: 30px;
+}
+h1{
+    margin: auto;
+}
+input{
+    height: 30px;
+}
+h3{
+    padding-top: 16px;
+}
+.btn{   
+    margin: 20px;
+    width: 45px;
+    height: 28px;
+    margin-top: 36px;
+}
+.img1 {
+    height: 285px;
+    width: 1365px;
+    padding-bottom: 30px;
+}
+.img2 {
+    height: 285px;
+    width: 1365px;
+    padding-bottom: 30px;
+}
+.img3 {
+    height: 285px;
+    width: 1365px;
+    padding-bottom: 30px;
+}
